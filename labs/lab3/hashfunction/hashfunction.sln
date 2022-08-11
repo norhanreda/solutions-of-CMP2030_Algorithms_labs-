@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear Probing", "question1\question1.vcxproj", "{25272106-CD79-4E50-8FA8-890EF67F7098}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Secret Sentence", "Secret Sentence\Secret Sentence.vcxproj", "{7F0A0903-86F2-4426-8630-1B8B3BF0EA5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25272106-CD79-4E50-8FA8-890EF67F7098}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25272106-CD79-4E50-8FA8-890EF67F7098}.Debug|Win32.Build.0 = Debug|Win32
+		{25272106-CD79-4E50-8FA8-890EF67F7098}.Release|Win32.ActiveCfg = Release|Win32
+		{25272106-CD79-4E50-8FA8-890EF67F7098}.Release|Win32.Build.0 = Release|Win32
+		{7F0A0903-86F2-4426-8630-1B8B3BF0EA5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F0A0903-86F2-4426-8630-1B8B3BF0EA5F}.Debug|Win32.Build.0 = Debug|Win32
+		{7F0A0903-86F2-4426-8630-1B8B3BF0EA5F}.Release|Win32.ActiveCfg = Release|Win32
+		{7F0A0903-86F2-4426-8630-1B8B3BF0EA5F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
